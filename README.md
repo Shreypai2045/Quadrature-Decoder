@@ -4,4 +4,4 @@ Verification of postional data from the phase shifts of two output signals provi
 
 This is a SystemVerilog files which contains source codes and testbenches.
 
-The constraints are specific to basys 2 Artix-7 fpga boards.
+The constraints are specific to basys 2 Artix-7 fpga board pinout.
